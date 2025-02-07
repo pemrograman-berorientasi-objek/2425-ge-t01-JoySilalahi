@@ -19,9 +19,7 @@ public class Driver1 {
             Account account = new Account(owner, accountName);
 
             System.out.println(account.createaccount());
-        } else {
-            System.out.println("Perintah tidak valid.");
-        }
+        } 
 
         scanner.close();
     }
