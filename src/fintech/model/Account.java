@@ -20,7 +20,7 @@ public String getOwner(){
 public String getAccountName(){
     return accountName;
 }
-public double balance(){
+public double getbalance(){
     return balance;
 }
 public String createaccount(){
